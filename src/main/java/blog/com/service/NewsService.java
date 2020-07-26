@@ -1,12 +1,12 @@
-package com.thanhbinhtruong.service;
+package blog.com.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.thanhbinhtruong.entity.News;
-import com.thanhbinhtruong.repository.NewsRepository;
+import blog.com.entity.News;
+import blog.com.repository.NewsRepository;
  
 
 @Service

@@ -1,12 +1,12 @@
-package com.thanhbinhtruong.service;
+package blog.com.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.thanhbinhtruong.entity.Category;
-import com.thanhbinhtruong.repository.CategoryRepository;
+import blog.com.entity.Category;
+import blog.com.repository.CategoryRepository;
  
 @Service
 public class CategoryService{

@@ -1,4 +1,4 @@
-package com.thanhbinhtruong.config;
+package blog.com.config;
 
 import java.io.IOException;
 import java.io.PrintWriter;

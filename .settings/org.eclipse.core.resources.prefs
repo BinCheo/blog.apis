@@ -1,3 +1,6 @@
 eclipse.preferences.version=1
-encoding//src/main/java/com/thanhbinhtruong/config/AuthenticationEntryPointImpl.java=UTF-8
-encoding//src/main/java/com/thanhbinhtruong/config/WebSecurityConfig.java=UTF-8
+encoding//src/main/java=UTF-8
+encoding//src/main/java/blog/com/config/AuthenticationEntryPointImpl.java=UTF-8
+encoding//src/main/java/blog/com/config/WebSecurityConfig.java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding/<project>=UTF-8

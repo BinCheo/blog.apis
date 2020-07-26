@@ -1,4 +1,4 @@
-package com.thanhbinhtruong.api.admin;
+package blog.com.admin.api;
 
 import java.text.Normalizer;
 import java.util.List;
@@ -16,8 +16,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.thanhbinhtruong.entity.News;
-import com.thanhbinhtruong.service.NewsService;
+import blog.com.entity.News;
+import blog.com.service.NewsService;
 
  
 

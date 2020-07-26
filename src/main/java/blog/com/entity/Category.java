@@ -1,4 +1,4 @@
-package com.thanhbinhtruong.entity;
+package blog.com.entity;
 
 import java.util.ArrayList;
 import java.util.Date;

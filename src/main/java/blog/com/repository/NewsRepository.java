@@ -1,4 +1,4 @@
-package com.thanhbinhtruong.repository;
+package blog.com.repository;
 
 
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
-import com.thanhbinhtruong.entity.News;
+import blog.com.entity.News;
 
  
 

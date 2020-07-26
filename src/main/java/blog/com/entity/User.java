@@ -1,4 +1,4 @@
-package com.thanhbinhtruong.entity;
+package blog.com.entity;
 //package com.blog.entity;
 //
 //import java.util.Collection;

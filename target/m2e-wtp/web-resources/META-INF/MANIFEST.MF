@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: com.thanhbinhtruong
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: Admin
+Built-By: thanhbinh truong
 Implementation-Vendor-Id: com.thanhbinhtruong
-Build-Jdk: 1.8.0_221
+Build-Jdk: 1.8.0_241
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/com.thanhbinhtruong
 Created-By: Maven Integration for Eclipse
